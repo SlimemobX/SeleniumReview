@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
-import com.syntax.class01.CommonMethods;
+import com.syntax.Utils.CommonMethods;
 
 public class DropdownsAndMultipleSelections extends CommonMethods{
 

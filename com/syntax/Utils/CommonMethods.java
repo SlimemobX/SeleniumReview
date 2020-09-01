@@ -1,4 +1,4 @@
-package com.syntax.class01;
+package com.syntax.Utils;
 
 import java.io.File;
 import java.io.IOException;

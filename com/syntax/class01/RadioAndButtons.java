@@ -5,6 +5,8 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import com.syntax.Utils.CommonMethods;
+
 public class RadioAndButtons extends CommonMethods{
 	
 public static void main(String[] args) throws InterruptedException {

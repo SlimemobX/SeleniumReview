@@ -3,7 +3,7 @@ package com.syntax.class02;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 
-import com.syntax.class01.CommonMethods;
+import com.syntax.Utils.CommonMethods;
 
 public class AlertsRecap extends CommonMethods{
 	

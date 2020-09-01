@@ -6,7 +6,7 @@ import java.util.Set;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import com.syntax.class01.CommonMethods;
+import com.syntax.Utils.CommonMethods;
 
 
 public class HandleFramesAndWindoes  extends CommonMethods{
